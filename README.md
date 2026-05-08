@@ -1,2 +1,15 @@
-<b> 134780 Trevor Augustine || 4.2 BBIT C || AI-Weather-App </b>  <br>
-Welcome to the AI Weather App GitHub repository! This project is dedicated to revolutionizing how small-scale farmers in rural African regions access and utilize weather information. The AI Weather App, powered by ChatGPT-4 and integrated with the MERN stack (MongoDB, Express.js, React, Node.js) and the OpenWeatherMap API, provides localized and precise weather forecasts tailored to the unique needs of farmers. Additionally, this repository includes a Rainfall Prediction Model that leverages data collected from the AI Weather App. The model utilizes historical weather data, including information from the OpenWeatherMap API, to predict rainfall patterns, offering farmers valuable insights for crop planning and resource allocation. I believe that by combining the power of artificial intelligence, the MERN stack, and the OpenWeatherMap API, this repository not only provides a user-friendly weather forecasting tool but also contributes to advancements in agricultural decision-making. Explore the code, contribute, and join me in empowering farmers with accurate weather forecasts and innovative solutions for sustainable agriculture.
+🌦 AI Weather App
+Hyper-local weather forecasts for rural African farmers and outdoor enthusiasts — powered by GPT-4 and the MERN stack.
+
+What it does
+Farmers – localized forecasts for crop planning and resource allocation
+Walkers & runners – minute-level rain predictions so you're never caught off guard
+Rainfall prediction model – uses historical OpenWeatherMap data to forecast rain patterns
+Stack
+MongoDB · Express.js · React · Node.js · GPT-4 · OpenWeatherMap API
+
+Get started
+git clone https://github.com/your-username/ai-weather-app.git
+cd ai-weather-app
+npm install && npm run dev
+Contributions welcome — open an issue or submit a PR<!--  -->
